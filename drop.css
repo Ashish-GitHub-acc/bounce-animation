@@ -1,0 +1,7 @@
+body{
+    margin: 0;
+}
+canvas{
+    background: linear-gradient(to bottom left,rgb(124, 255, 124),rgb(91, 155, 252));
+    /* background-color: antiquewhite; */
+}
